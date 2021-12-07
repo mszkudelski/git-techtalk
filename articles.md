@@ -1,6 +1,6 @@
 # Articles
 
-1. Artykuł pierwszy albo drugi
+1. O tym jaki pisać artykuły
 
 2. Artykuł prawdopodobnie drugi
 
