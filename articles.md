@@ -1,6 +1,6 @@
 # Articless
 
-1. Artykuł pierwszy albo drugi
+1. Artykuł pierwszy
 
 2. Artykuł prawdopodobnie drugi
 
