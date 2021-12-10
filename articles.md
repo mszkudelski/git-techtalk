@@ -2,6 +2,6 @@
 
 1. Artykuł pierwszy
 
-2. Artykuł prawdopodobnie drugi
+2. Artykuł drugi
 
 4. Artykuł trzeci
